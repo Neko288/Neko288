@@ -6,6 +6,6 @@
   <br>
   <br>
   Python<br>HTML&CSS<br>Javascript(little bit)<br>
-  </samp>
+  </samp><br><br>
   <img src='https://github.com/Neko288/Neko288/blob/main/IREINASAMA.png' width="400">
 </p>
