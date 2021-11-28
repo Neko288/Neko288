@@ -7,5 +7,5 @@
   <br>
   Python<br>HTML&CSS<br>Javascript(little bit)<br>
   </samp>
-  <img src='https://github.com/Neko288/Neko288/blob/main/IREINASAMA.jpg' width="400">
+  <img src='https://github.com/Neko288/Neko288/blob/main/IREINASAMA.png' width="400">
 </p>
